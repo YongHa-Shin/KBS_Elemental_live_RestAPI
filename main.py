@@ -2,7 +2,7 @@
 # Youtube Live SDI 2 <인제스트실> : Event ID = 17, Input ID = 28, Output ID = 171
 # Youtube Live SDI 3 <인제스트실> : Event ID = 18, Input ID = 29, Output ID = 173
 # Youtube Live SDI 4 <인제스트실> : Event ID = 19, Input ID = 30, Output ID = 175
-# git thridasdf
+
 from Elemental_Live_REST_API import Elemental_API
 
 enc_ip = '10.20.22.139' #Elemental Live: IP
